@@ -1,0 +1,1 @@
+{'version': 0.3, 'files': [{'file': '/Users/dinever/.vim/plugin/colorselector.vim', 'checksum': '1acda4dfe49e49f9dbc6d137a34b3fbb'}], 'install_type': 'makefile', 'script_version': '0.1', 'package': 'colorselector.vim', 'generated_by': 'Vim-Makefile'}
