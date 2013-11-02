@@ -42,7 +42,7 @@ syntax enable
 set t_Co=256
 set background=dark
 " solarized options
-let g:solarized_termcolors = 256
+"let g:solarized_termcolors = 256
 let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
 try
