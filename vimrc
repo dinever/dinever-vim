@@ -27,5 +27,11 @@ autocmd vimenter * NERDTree
 
 let g:pymode_run = 1
 
+"set pastetoggle=<F9>
 " Key for run python code
 let g:pymode_run_key = '<leader>r'
+
+let Tlist_Ctags_Cmd='/usr/local/bin/ctags'
+let Tlist_Show_One_File=1
+let Tlist_Exit_OnlyWindow=1
+let Tlist_Use_Right_Window=1
