@@ -62,3 +62,7 @@ There are many instructions on how to use c.vim in the Internet, and you can lea
 My Blog:[dinever.com](http://dinever.com)
 
 Ding Peixuan [dingpeixuan911@gmail.com](mailto:dingpeixuan911@gmail.com)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dinever/dinever-vim/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
