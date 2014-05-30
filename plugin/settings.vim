@@ -46,7 +46,7 @@ set background=dark
 let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
 try
-  colorscheme default
+  colorscheme solarized_dark
 catch
 endtry
 
